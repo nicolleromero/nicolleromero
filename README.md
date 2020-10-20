@@ -1,4 +1,4 @@
-### Hi 👋 Nicolle, here!
+### Hi 👋
 #### I'm a Frontend Software Engineer passionate about building awesome web experiences in React! ⚛️ 
 #### I also 💻 in Redux, Recoil, React Router, JavaScript, Python, HTML/CSS, and Java.
 
