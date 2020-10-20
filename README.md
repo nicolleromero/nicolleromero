@@ -1,6 +1,6 @@
 ### Hi 👋 Nicolle, here!
-## I'm a Frontend Software Engineer passionate about building awesome web experiences in React! ⚛️ 
-## (I also 💻 in Redux, Recoil, React Router, JavaScript, Python, HTML, CSS, Java, SQL, and UI/UX/CX). 
+# I'm a Frontend Software Engineer passionate about building awesome web experiences in React! ⚛️ 
+# (I also 💻 in Redux, Recoil, React Router, JavaScript, Python, HTML, CSS, Java, SQL, and UI/UX/CX). 
 
 <!--
 **nicolleromero/nicolleromero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
