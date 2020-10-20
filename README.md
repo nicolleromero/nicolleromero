@@ -1,6 +1,4 @@
-### Hi 👋
-#### I'm a Frontend Software Engineer passionate about building awesome web experiences in React! ⚛️ 
-#### I also 💻 in Redux, Recoil, React Router, JavaScript, Python, HTML/CSS, and Java.
+Hi! 👋 Nicolle, here. I'm a Frontend Software Engineer that loves building in React. I'm looking for an awesome team to join, so please reach out if you're looking to hire a 🧨 engineer!
 
 <!--
 **nicolleromero/nicolleromero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
