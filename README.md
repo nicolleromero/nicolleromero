@@ -1,5 +1,9 @@
-Hi! Nicolle, here. I'm a Software Engineer that loves building beautiful UI in React. When I'm not coding, you can find me exploring the coast or 
-diving.  
+#### Hi! Nicolle, here. 👋
+
+I'm a Software Engineer that loves building beautiful UI in React. When I'm not at the keyboard, you can find me exploring the coast or diving. 🐠 🤿 🐙
+</br>
+
+<img src=https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif width="30%">
 
 <!--
 **nicolleromero/nicolleromero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
