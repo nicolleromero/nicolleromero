@@ -3,8 +3,6 @@
 <p align="center">I'm a Software Engineer that loves building beautiful UI in React. </p>
 <p align="center">When I'm not at the keyboard, you can find me exploring the coast or diving. 🐠 🤿 🐙</p>
 
-<p align="center"><img src=https://media.giphy.com/media/86bAGxmMCGQU34Y/giphy.gif width="50%"></p>
-
 <!--
 **nicolleromero/nicolleromero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
