@@ -1,7 +1,7 @@
-<p align="center">Hi! Nicolle, here. 👋</p>
+<p>Hi! Nicolle, here. 👋</p>
 
-<p align="center">I'm a Software Engineer that loves building beautiful UI in React. </p>
-<p align="center">When I'm not at the keyboard, you can find me exploring the coast or diving. 🐠 🤿 🐙</p>
+<p>I'm a Software Engineer that loves building beautiful UI in React. </p>
+
 
 <!--
 **nicolleromero/nicolleromero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
